@@ -5,7 +5,7 @@
 <h1 align="center">Power Mode Selector</h1>
 
 <p align="center">
-  A lightweight Windows system tray application for switching power plans instantly.
+  A lightweight Windows 11 & 10 system tray application for switching power plans instantly.
 </p>
 
 <p align="center">
